@@ -1,0 +1,5 @@
+fastapi[all]
+gunicorn
+#transformers
+#torch
+# requests
